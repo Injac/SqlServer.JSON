@@ -1,0 +1,12 @@
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Release\SqlServer.JSON.dacpac
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Release\SqlServerJSON.dll
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Release\SqlServerJSON.pdb
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Release\Newtonsoft.Json.dll
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Release\Newtonsoft.Json.pdb
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Release\Newtonsoft.Json.xml
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Release\Model.xml
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Release\refactor.xml
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Release\postdeploy.sql
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Release\predeploy.sql
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Release\SqlServerJSON.dll
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Release\SqlServerJSON.pdb

@@ -1,0 +1,12 @@
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Debug\SqlServer.JSON.dacpac
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Debug\SqlServerJSON.dll
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Debug\SqlServerJSON.pdb
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Debug\Newtonsoft.Json.dll
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Debug\Newtonsoft.Json.pdb
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\bin\Debug\Newtonsoft.Json.xml
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Debug\SqlServerJSON.dll
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Debug\SqlServerJSON.pdb
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Debug\Model.xml
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Debug\refactor.xml
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Debug\postdeploy.sql
+G:\Projects\ExGrip\SQLServer\SQServerJSON\SqlServer.JSON\SqlServer.JSON\obj\Debug\predeploy.sql
